@@ -1,1 +1,5 @@
-# meetup-data-ai
+# Meetup Data Ai Microsoft DFW
+
+## Demo App Code Step by Step.
+
+- https://github.com/Azure-Samples/azure-search-openai-demo/
