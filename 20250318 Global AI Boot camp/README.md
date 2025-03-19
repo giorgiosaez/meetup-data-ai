@@ -1,6 +1,6 @@
 # GlobalAI Bootcamp 2025
 
-- ## This page: [https://aka.ms/dataaidfw](https://aka.ms/globalaidfw)
+- ## This page: [https://aka.ms/globalaidfw](https://aka.ms/globalaidfw)
 
 - ## Microsoft Ignite 2024: [Ignite](https://ignite.microsoft.com/)
  
