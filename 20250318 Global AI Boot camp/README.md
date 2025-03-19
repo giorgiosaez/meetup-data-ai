@@ -4,7 +4,7 @@
 
 - ## Microsoft Ignite 2024: [Ignite](https://ignite.microsoft.com/)
  
-- ## Content [Comming soon](https://aka.ms/genai-beginners)
+- ## Content [Coming soon](https://aka.ms/genai-beginners)
 
 - ## New Group in LinkedIn [Data & AI - Microsoft DFW](https://www.linkedin.com/groups/14518026/)
   
