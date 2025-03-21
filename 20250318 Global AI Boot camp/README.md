@@ -4,7 +4,8 @@
 
 - ## Microsoft Ignite 2024: [Ignite](https://ignite.microsoft.com/)
  
-- ## Content [Coming soon](https://aka.ms/genai-beginners)
+- ## Content:
+  -  [Getting started with AI Agents](https://github.com/giorgiosaez/meetup-data-ai/blob/main/20250318%20Global%20AI%20Boot%20camp/globalaibootcamp-ai-agents%20Markup.pdf)
 
 - ## New Group in LinkedIn [Data & AI - Microsoft DFW](https://www.linkedin.com/groups/14518026/)
   
