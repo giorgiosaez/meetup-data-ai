@@ -1,4 +1,6 @@
-# Generative AI for Beginners | Season of AI 2024
+# Vibe Talking: From No-Code Magic to Command-Line in Conversational AI
+
+- ## Solomon Tsao's deck coming later this week
 
 - ## This page: [https://aka.ms/dataaidfw](https://aka.ms/dataaidfw)
 
