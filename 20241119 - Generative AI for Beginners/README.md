@@ -4,6 +4,8 @@
 
 - ## This page: [https://aka.ms/dataaidfw](https://aka.ms/dataaidfw)
 
+- ## Join [Global AI Dallas Chapter](https://globalai.community/chapters/dallas/)
+
 - ## Microsoft Ignite 2024: [Ignite](https://ignite.microsoft.com/)
  
 - ## Content [Generative AI for Beginners](https://aka.ms/genai-beginners)
