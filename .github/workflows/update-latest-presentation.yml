@@ -1,0 +1,33 @@
+# .github/workflows/update-latest.yml
+name: Update Latest Presentation Link
+
+on:
+  push:
+    paths:
+      - 'presentations/**'
+
+jobs:
+  update-latest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository (with write access)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Update README with latest event
+        run: python scripts/update_latest.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update latest presentation link"
+          git push
