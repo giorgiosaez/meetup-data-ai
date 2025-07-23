@@ -1,6 +1,8 @@
 # Vibe Talking: From No-Code Magic to Command-Line in Conversational AI
 
-- ## Solomon Tsao's deck coming later this week
+- ## Solomon Tsao: Vibe Coding - Are You Really a Coder or Just Curious?
+  - ### [Presentation](./Vibe%20Coding_%20Coding%20in%20the%20Age%20of%20AI.pdf)
+  -   ### [Youtube](https://www.youtube.com/watch?v=C8XWyVwjY-Q)
 
 - ## This page: [https://aka.ms/dataaidfw](https://aka.ms/dataaidfw)
 
