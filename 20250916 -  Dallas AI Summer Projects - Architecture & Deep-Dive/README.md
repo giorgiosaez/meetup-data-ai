@@ -1,7 +1,8 @@
 # Dallas AI Summer Projects - Architecture & Deep-Dive
 
 - ## FitFusion app
-  - ### [Presentation](./.pdf)
+  - ### [Presentation](./FitFusion-AI-Personalized-Fitness-and-Nutrition-Assistant.pdf)
+
   - ### [Repo](https://github.com/GeorgeKava/FitnessAdvisor-React)
 
 - ## This page: [https://aka.ms/dataaidfw](https://aka.ms/dataaidfw)
