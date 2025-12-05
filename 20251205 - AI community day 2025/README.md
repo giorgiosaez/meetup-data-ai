@@ -1,5 +1,5 @@
 # AI Community Day Dallas
-![Feedback](https://github.com/giorgiosaez/meetup-data-ai/blob/main/20251205%20-%20AI%20community%20day%202025/QRCode%20for%20AgentCon%20Dallas%202025%20Feedback%20Survey.png)
+![Feedback](https://github.com/giorgiosaez/meetup-data-ai/blob/main/20251205%20-%20AI%20community%20day%202025/QRCode%20for%20Feedback%20Survey.png)
 
 ## Event Information
 
