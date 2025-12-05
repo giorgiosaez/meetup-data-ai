@@ -1,4 +1,7 @@
 # AI Community Day Dallas
+
+## aka.ms/ai-dfw-2025
+
 [Survey](https://forms.office.com/r/d5hxi8mJxu)
 ![Feedback](https://github.com/giorgiosaez/meetup-data-ai/blob/main/20251205%20-%20AI%20community%20day%202025/QRCode%20for%20Feedback%20Survey.png)
 
