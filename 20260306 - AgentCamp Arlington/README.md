@@ -74,4 +74,4 @@ If you share updates, photos, or learnings from your AgentCamp event, feel free 
 - [Microsoft AI decision tree](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/strategy#microsoft-ai-decision-tree)
 
 
-- [AI Toolkit + GitHub Copilot](https://www.youtube.com/watch?v=4KcpgQlFa58)
+- [AI Toolkit + GitHub Copilot YouTube series](https://www.youtube.com/watch?v=4KcpgQlFa58)
