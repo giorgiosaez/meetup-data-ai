@@ -22,7 +22,7 @@ Join us for an interactive, hands-on workshop where you'll learn how to design, 
 
 ### 2. Workshop: Prototyping Multimodal Agents With Microsoft Foundry and the AI Toolkit [Link](https://github.com/giorgiosaez/agentcamp-msft/tree/main)
 
-### 3. Build a Pizza Ordering Agent with Microsoft Foundry and MCP [LINK](https://docs.globalai.community/agentcamp/content.html#_3-build-a-pizza-ordering-agent-with-microsoft-foundry-and-mcp)
+### 3. Build a Pizza Ordering Agent with Microsoft Foundry and MCP [Link](https://docs.globalai.community/agentcamp/content.html#_3-build-a-pizza-ordering-agent-with-microsoft-foundry-and-mcp)
 
 
 ## 🔑 What to Expect
