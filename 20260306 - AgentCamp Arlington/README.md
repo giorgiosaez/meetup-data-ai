@@ -69,3 +69,7 @@ If you share updates, photos, or learnings from your AgentCamp event, feel free 
 - [Getting started with AI Agents](https://github.com/microsoft/aitour-copilot-studio-agents-and-experiences)
 - [Build an agent with Azure AI Agent Service](https://workshop-ai-agents.globalaibootcamp.com/)
 - [Microsoft Ignite 2025 Book of News](https://news.microsoft.com/ignite-2025-book-of-news/)
+- [The future of logistics](https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/2025/03/20/the-future-of-logistics-how-generative-ai-and-agentic-ai-is-creating-a-new-era-of-efficiency-and-innovation/?msockid=2cd0f1b98d5862960d6ae3428c7d6304)
+- [AI agent decision tree](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/technology-solutions-plan-strategy#ai-agent-decision-tree)
+- [Microsoft AI decision tree](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/strategy#microsoft-ai-decision-tree)
+
