@@ -18,6 +18,13 @@
 
 Join us for an interactive, hands-on workshop where you'll learn how to design, build, and deploy intelligent agents using the Microsoft Agent Framework. This session is perfect for developers, AI enthusiasts, and professionals who want to explore practical applications of agent-based systems and gain real-world experience with Microsoft's cutting-edge tools.
 
+### 1. Build and launch AI agents fast with Microsoft Foundry and the AI Toolkit
+
+### 2. Workshop: Prototyping Multimodal Agents With Microsoft Foundry and the AI Toolkit [Link](https://github.com/giorgiosaez/agentcamp-msft/tree/main)
+
+### 3. Build a Pizza Ordering Agent with Microsoft Foundry and MCP
+
+
 ## 🔑 What to Expect
 
 - Guided walkthroughs of the Microsoft Agent Framework
