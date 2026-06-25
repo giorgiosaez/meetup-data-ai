@@ -10,12 +10,15 @@ Our community gathers each month to learn, share real-world experiences, and bui
 
 ---
 
-## Table of Contents
+## Upcoming Meetups & How to Join
 
-- [Getting Started](#getting-started)  
-- [Upcoming Meetups & How to Join](#upcoming-meetups--how-to-join)  
-- [License](#license)  
+Stay plugged in:
 
+- ### [DFW Data & AI Meetup page](https://www.meetup.com/data-ai-microsoft/)
+- ### [DFW Global AI Meetup page](https://www.meetup.com/amrobotics/)
+- ### [LinkedIn Group](https://www.linkedin.com/groups/14518026/)
+
+Join the conversation, propose talk ideas, or volunteer to present — everyone’s contribution makes our community stronger!
 ---
 
 ## Getting Started
@@ -37,16 +40,7 @@ Our community gathers each month to learn, share real-world experiences, and bui
 
 We welcome improvements, corrections, translations, or any assets that enrich our community library!
 
----
 
-## Upcoming Meetups & How to Join
-
-Stay plugged in:
-
-- ### [Meetup page](https://www.meetup.com/data-ai-microsoft/)   
-- ### [LinkedIn Group](https://www.linkedin.com/groups/14518026/) 
-
-Join the conversation, propose talk ideas, or volunteer to present — everyone’s contribution makes our community stronger!
 
 ---
 
