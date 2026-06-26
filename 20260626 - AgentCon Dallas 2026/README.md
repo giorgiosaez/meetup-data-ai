@@ -2,6 +2,8 @@
 
 # www.aka.ms/agentcondallas
 
+![Wi-Fi](wifi.jpg)
+
 ## Event Information
 
 - **Date:** Friday, June 26, 2026
