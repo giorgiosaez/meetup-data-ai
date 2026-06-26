@@ -52,7 +52,7 @@ Whether you are shipping your first agent or scaling production systems, AgentCo
 | 10:00 AM - 10:40 AM | Design Smarter: 5 Proven Patterns for AI + Low-Code apps That Deliver | Geetha Sivasailam |
 | 10:45 AM - 11:25 AM | Where Agents Break: Deterministic Governance for Probabilistic AI | Preston McCauley |
 | 11:30 AM - 12:10 PM | Letting go! A field guide to shipping 100% AI generated code | Trace Wilkerson |
-| 1:00 PM - 2:30 PM | Small Agents. Big Mesh. Build Production-Grade Agentic AI Systems with Solace Agent Mesh | Rey Riel |
+| 1:00 PM - 2:30 PM | [Workshop](https://github.com/SolaceDev/solace-developer-workshops/tree/sam-go) - Small Agents. Big Mesh. Build Production-Grade Agentic AI Systems with Solace Agent Mesh | Rey Riel |
 
 ## Speakers
 
